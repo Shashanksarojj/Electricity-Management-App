@@ -56,6 +56,7 @@ public class Main {
 //					break;
 				default:
 					throw new IllegalArgumentException("Unexpected value: " + choice);
+					
 				}
 
 			} while (choice <= 6);
