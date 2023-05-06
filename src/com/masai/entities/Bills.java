@@ -1,5 +1,8 @@
 package com.masai.entities;
 
-public class Bills {
+import java.io.Serializable;
+
+public class Bills implements Serializable{
+	
 
 }
