@@ -11,6 +11,7 @@ public class User {
 	}
 	public User(String userName, String password, String address, String email) {
 		super();
+		
 		this.userName = userName;
 		this.password = password;
 		this.address = address;
